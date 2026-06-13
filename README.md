@@ -24,7 +24,7 @@ Data points are coloured by season (Winter / Spring / Summer / Fall).
 
 ![SIA 180 chart screenshot](docs/screenshot.png)
 
-Open [index.html](https://nousworkshq.github.io/sia180-thermal-comfort/) in a browser for the interactive version.
+Open [index.html](https://raffa3l.github.io/sia180-thermal-comfort/) in a browser for the interactive version.
 
 ---
 
