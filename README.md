@@ -112,7 +112,7 @@ fig.show()
 
 - **SIA 180:2014** – Wärmeschutz, Feuchteschutz und Raumklima in Gebäuden  
   (Heat protection, moisture protection and indoor climate in buildings). Published by: [Schweizerischer Ingenieur- und Architektenverein (SIA)](https://www.sia.ch)
-- Energy Data Analysis with R [hslu-ige-laes/edar](https://github.com/hslu-ige-laes/edar/blob/master/partDataVis/comfortSia180ThermCmf.Rmd).
+- Energy Data Analysis with R, SIA 180 Thermal Comfort implementation [hslu-ige-laes/edar](https://github.com/hslu-ige-laes/edar/blob/master/partDataVis/comfortSia180ThermCmf.Rmd).
 
 ---
 
