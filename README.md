@@ -24,7 +24,7 @@ Data points are coloured by season (Winter / Spring / Summer / Fall).
 
 Open **index.html** in a browser for the interactive version.
 
-[Demo Web-App](https://raffa3l.github.io/sia180-thermal-comfort/)
+[Live-Demo](https://raffa3l.github.io/sia180-thermal-comfort/)
 
 ---
 
