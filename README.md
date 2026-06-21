@@ -2,8 +2,6 @@
 
 Interactive visualization of indoor thermal comfort according to the Swiss standard **SIA 180:2014**, implemented in Python with [Plotly](https://plotly.com/python/).
 
-This is a Python port of the original R implementation by [hslu-ige-laes/edar](https://github.com/hslu-ige-laes/edar/blob/master/partDataVis/comfortSia180ThermCmf.Rmd).
-
 ---
 
 ## What it does
@@ -24,7 +22,9 @@ Data points are coloured by season (Winter / Spring / Summer / Fall).
 
 ![SIA 180 chart screenshot](docs/screenshot.png)
 
-Open [index.html](https://raffa3l.github.io/sia180-thermal-comfort/) in a browser for the interactive version.
+Open **index.html** in a browser for the interactive version.
+
+[Demo Web-App](https://raffa3l.github.io/sia180-thermal-comfort/)
 
 ---
 
@@ -111,8 +111,8 @@ fig.show()
 ## Standards reference
 
 - **SIA 180:2014** – Wärmeschutz, Feuchteschutz und Raumklima in Gebäuden  
-  (Heat protection, moisture protection and indoor climate in buildings)
-- Published by: [Schweizerischer Ingenieur- und Architektenverein (SIA)](https://www.sia.ch)
+  (Heat protection, moisture protection and indoor climate in buildings). Published by: [Schweizerischer Ingenieur- und Architektenverein (SIA)](https://www.sia.ch)
+- Energy Data Analysis with R [hslu-ige-laes/edar](https://github.com/hslu-ige-laes/edar/blob/master/partDataVis/comfortSia180ThermCmf.Rmd).
 
 ---
 
