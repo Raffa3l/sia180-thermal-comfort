@@ -1,7 +1,7 @@
 # SIA 180 Thermal Comfort
 
 [![Lizenz: MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg)](LICENSE)
-[![GitHub Pages](https://img.shields.io/badge/Demo-GitHub%20Pages-orange.svg)](https://raffa3l.github.io/sia180-thermal-comfort/)
+[![GitHub Pages](https://img.shields.io/badge/Demo-GitHub%20Pages-orange.svg)](https://raffa3l.github.io/SIA-180-thermal-comfort/)
 
 
 Interactive visualization of indoor thermal comfort according to the Swiss standard **SIA 180:2014**, implemented in Python with [Plotly](https://plotly.com/python/).
@@ -28,7 +28,7 @@ Data points are coloured by season (Winter / Spring / Summer / Fall).
 
 Open **index.html** in a browser for the interactive version.
 
-[Live-Demo](https://raffa3l.github.io/sia180-thermal-comfort/)
+[Live-Demo](https://raffa3l.github.io/SIA-180-thermal-comfort/)
 
 ---
 
